@@ -1,0 +1,564 @@
+# Translation of Plugins - FiboSearch &#8211; Ajax Search for WooCommerce - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - FiboSearch &#8211; Ajax Search for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-09 20:35:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - FiboSearch &#8211; Ajax Search for WooCommerce - Stable (latest release)\n"
+
+#: includes/Admin/Troubleshooting.php:502
+msgid "Dismiss"
+msgstr "Отклонить"
+
+#: includes/Settings.php:582
+msgid "Exclude"
+msgstr "Исключить"
+
+#: includes/Settings.php:583
+msgid "Include"
+msgstr "Включить"
+
+#: includes/Integrations/Brands.php:229 includes/Integrations/Brands.php:233
+#: includes/Settings.php:401 includes/Settings.php:405
+msgid "show images"
+msgstr "показывать изображения"
+
+#: partials/admin/settings.php:27
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/Admin/SettingsAPI.php:630
+msgid "Add new rule"
+msgstr "Добавить новое правило"
+
+#: includes/Settings.php:589
+msgid "Filters"
+msgstr "Фильтры"
+
+#: includes/Admin/Troubleshooting.php:688
+msgid "Server environment"
+msgstr "Системная среда сервера"
+
+#: includes/Helpers.php:930
+msgid "Vendor"
+msgstr "Продавец"
+
+#: includes/Helpers.php:934
+msgid "Vendors"
+msgstr "Продавцы"
+
+#: includes/Admin/Troubleshooting.php:392
+msgid "Enable AJAX add to cart buttons on archives"
+msgstr "Включить Ajax для кнопки добавления в корзину в архивах"
+
+#: includes/Admin/Troubleshooting.php:391
+msgid "Redirect to the cart page after successful addition"
+msgstr "Перенаправить в корзину после успешного добавления"
+
+#: includes/Integrations/Themes/Shopkeeper/Shopkeeper.php:72
+msgid "Warning!"
+msgstr "Внимание!"
+
+#: includes/Admin/Troubleshooting.php:355
+#: includes/Admin/Troubleshooting.php:531
+msgid "WordPress version"
+msgstr "Версия WordPress"
+
+#: includes/Admin/Troubleshooting.php:535
+msgid "PHP extensions"
+msgstr "Расширения PHP"
+
+#: includes/Settings.php:244
+msgid "px"
+msgstr "px"
+
+#: includes/EmbeddingViaMenu.php:186 widget.php:38
+msgid "Default"
+msgstr "По умолчанию"
+
+#: includes/Abstracts/ThemeIntegration.php:49
+#: includes/Integrations/Themes/Avada/Avada.php:46
+#: includes/Integrations/Themes/BlockShop/BlockShop.php:43
+#: includes/Integrations/Themes/Bridge/Bridge.php:43
+#: includes/Integrations/Themes/DFDRonneby/DFDRonneby.php:43
+#: includes/Integrations/Themes/Divi/Divi.php:61
+#: includes/Integrations/Themes/Ekommart/Ekommart.php:43
+#: includes/Integrations/Themes/Enfold/Enfold.php:50
+#: includes/Integrations/Themes/Restoration/Restoration.php:45
+#: includes/Integrations/Themes/Savoy/Savoy.php:43
+#: includes/Integrations/Themes/Shopkeeper/Shopkeeper.php:45
+#: includes/Integrations/Themes/Sober/Sober.php:43
+#: includes/Integrations/Themes/The7/The7.php:46
+#: includes/Integrations/Themes/Woodmart/Woodmart.php:61
+msgid "%s Theme"
+msgstr "%s Тема"
+
+#: includes/EmbeddingViaMenu.php:74 includes/Settings.php:217
+#: includes/Settings.php:223 widget.php:43
+msgid "Layout"
+msgstr "Макет"
+
+#: includes/Settings.php:243
+msgid "Mobile breakpoint"
+msgstr "Точка останова мобильн"
+
+#: includes/EmbeddingViaMenu.php:188 includes/Settings.php:227
+#: includes/Settings.php:258 widget.php:40
+msgid "Search icon"
+msgstr "Значок поиска"
+
+#: partials/admin/features.php:28
+msgid "Search for posts and pages"
+msgstr "Искать записи и страницы"
+
+#: partials/admin/search-preview.php:209
+msgid "Add to cart"
+msgstr "Добавить в корзину"
+
+#: includes/Admin/Promo/Upgrade.php:50 includes/Settings.php:554
+#: includes/Settings.php:560 partials/admin/features.php:29
+msgid "Synonyms"
+msgstr "Синонимы"
+
+#: includes/Settings.php:621
+msgid "Enable Scheduler"
+msgstr "Включить расписание"
+
+#: includes/Settings.php:163
+msgid "How to add?"
+msgstr "Как добавить?"
+
+#: includes/EmbeddingViaMenu.php:166 includes/EmbeddingViaMenu.php:167
+msgid "Add to menu"
+msgstr "Добавить в меню"
+
+#: includes/Settings.php:629
+msgid "Interval"
+msgstr "Интервал"
+
+#: includes/Settings.php:633
+msgid "daily"
+msgstr "ежедневно"
+
+#: includes/Settings.php:634
+msgid "weekly"
+msgstr "еженедельно"
+
+#: includes/Settings.php:446
+msgid "Suggestions colors"
+msgstr "Предлагаемые цвета"
+
+#: includes/Settings.php:433
+msgid "Details panel"
+msgstr "Панель подробностей"
+
+#: includes/Settings.php:393
+msgid "Show categories"
+msgstr "Показывать категории"
+
+#: includes/Settings.php:439
+msgid "Show Details panel"
+msgstr "Показывать панель подробностей"
+
+#: includes/Settings.php:426
+msgid "Show pages"
+msgstr "Показывать страницы"
+
+#: includes/Settings.php:419
+msgid "Show posts"
+msgstr "Показывать записи"
+
+#: includes/Settings.php:328
+msgid "Limit"
+msgstr "Лимит"
+
+#: includes/Helpers.php:938
+msgid "Featured"
+msgstr "Рекомендуемое"
+
+#: includes/Helpers.php:936
+msgid "Sale"
+msgstr "Распродажа"
+
+#: includes/Abstracts/ThemeIntegration.php:62
+#: includes/Integrations/Themes/Avada/Avada.php:59
+#: includes/Integrations/Themes/BlockShop/BlockShop.php:56
+#: includes/Integrations/Themes/Bridge/Bridge.php:56
+#: includes/Integrations/Themes/DFDRonneby/DFDRonneby.php:59
+#: includes/Integrations/Themes/Divi/Divi.php:74
+#: includes/Integrations/Themes/Ekommart/Ekommart.php:56
+#: includes/Integrations/Themes/Enfold/Enfold.php:63
+#: includes/Integrations/Themes/Flatsome/Flatsome.php:56
+#: includes/Integrations/Themes/Restoration/Restoration.php:58
+#: includes/Integrations/Themes/Savoy/Savoy.php:56
+#: includes/Integrations/Themes/Shopkeeper/Shopkeeper.php:58
+#: includes/Integrations/Themes/Sober/Sober.php:56
+#: includes/Integrations/Themes/Storefront/Storefront.php:57
+#: includes/Integrations/Themes/The7/The7.php:59
+#: includes/Integrations/Themes/TheGem/TheGem.php:92
+#: includes/Integrations/Themes/Woodmart/Woodmart.php:74
+msgid "Replace"
+msgstr "Заменить"
+
+#: includes/Settings.php:104 partials/admin/search-preview.php:24
+msgid "Autocomplete"
+msgstr "Автозаполнение"
+
+#: includes/EmbeddingViaMenu.php:247 includes/Settings.php:100
+#: partials/admin/search-preview.php:23
+msgid "Search bar"
+msgstr "Панель поиска"
+
+#: includes/Helpers.php:942 includes/Helpers.php:943 includes/Settings.php:383
+msgid "See all products..."
+msgstr "Посмотреть все товары.."
+
+#: partials/admin/settings.php:32 partials/admin/settings.php:34
+msgid "Show advanced settings"
+msgstr "Показать дополнительные настройки"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://fibosearch.com?utm_source=wp-admin&utm_medium=referral&utm_campaign=author_uri&utm_gen=utmdc"
+msgstr "https://ajaxsearch.pro?utm_source=wp-admin&utm_medium=referral&utm_campaign=author_uri&utm_gen=utmdc"
+
+#: includes/Helpers.php:929
+msgid "Page"
+msgstr "Страница"
+
+#: includes/Helpers.php:933
+msgid "Pages"
+msgstr "Страницы"
+
+#: includes/Helpers.php:928
+msgid "Post"
+msgstr "Запись"
+
+#: includes/Helpers.php:932
+msgid "Posts"
+msgstr "Записи"
+
+#: partials/admin/search-preview.php:22
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: includes/Helpers.php:931 includes/Settings.php:350
+msgid "Products"
+msgstr "Товары"
+
+#: includes/Helpers.php:935
+msgid "SKU"
+msgstr "Артикул (SKU)"
+
+#: includes/Engines/WordPressNative/Search.php:950
+msgid "Categories"
+msgstr "Категории"
+
+#: includes/Integrations/Brands.php:322
+msgid "Brands"
+msgstr "Бренды"
+
+#: includes/Integrations/Brands.php:219
+msgid "Show brands"
+msgstr "Показать бренды"
+
+#: includes/Engines/WordPressNative/Search.php:952
+msgid "Tags"
+msgstr "Метки"
+
+#: includes/Settings.php:411
+msgid "Show tags"
+msgstr "Показать метки"
+
+#: includes/Integrations/Brands.php:197
+msgid "Search in brands"
+msgstr "Поиск по брендам"
+
+#: includes/Integrations/Brands.php:323
+msgid "Brand"
+msgstr "Бренд"
+
+#: partials/admin/indexer-header-demo.php:16
+msgid "Show details"
+msgstr "Смотреть подробнее"
+
+#: partials/admin/indexer-header-demo.php:11
+msgid "The search index does not exist yet. Build it now."
+msgstr "Индекс поиска еще не существует. Постройте его."
+
+#: partials/admin/features.php:33
+msgid "Upgrade Now!"
+msgstr "Обновить!"
+
+#: partials/admin/features.php:31
+msgid "And more..."
+msgstr "и больше..."
+
+#: includes/Settings.php:671
+msgid "Index status"
+msgstr "Статус индекса"
+
+#: includes/Settings.php:664
+msgid "Hard"
+msgstr "Точно"
+
+#: includes/Settings.php:663
+msgid "Normal"
+msgstr "Нормально"
+
+#: includes/Settings.php:662
+msgid "Soft"
+msgstr "Примерно"
+
+#: includes/Settings.php:661
+msgid "-- Disabled"
+msgstr "-- Отключить"
+
+#: includes/Settings.php:656
+msgid "Fuzzy matching"
+msgstr "Неточное совпадение"
+
+#: includes/Settings.php:609
+msgid "Speed up search!"
+msgstr "Ускорьте поиск!"
+
+#: includes/Settings.php:548
+msgid "Fuzziness"
+msgstr "Точность"
+
+#: includes/Settings.php:603
+msgid "Pro features"
+msgstr "Особенности Pro версии"
+
+#: includes/Settings.php:514 partials/admin/features.php:23
+msgid "Search in attributes"
+msgstr "Поиск по атрибутам"
+
+#: includes/Settings.php:507
+msgid "Search in SKU"
+msgstr "Поиск по артикулу"
+
+#: includes/Settings.php:501
+msgid "Search in short description"
+msgstr "Поиск в кратком описании"
+
+#: includes/Settings.php:495
+msgid "Search in description"
+msgstr "Поиск в описании"
+
+#: includes/Settings.php:135
+msgid "Increase sales"
+msgstr "Увеличивать объем продаж"
+
+#: includes/Admin/Troubleshooting.php:333
+#: includes/Admin/Troubleshooting.php:336
+msgid "Required PHP extension: %s"
+msgstr "Требуемое расширение PHP: %s"
+
+#: includes/Admin/Promo/Upgrade.php:65
+msgid "Upgrade Now"
+msgstr "Обновить сейчас"
+
+#: includes/Admin/Promo/Upgrade.php:63
+msgid "and more..."
+msgstr "и больше..."
+
+#: includes/Admin/Promo/Upgrade.php:51
+msgid "Search in attributes and variation products SKUs (option)"
+msgstr "Поиск по атрибутам и артикулам вариаций товаров (опция)"
+
+#: includes/Admin/Promo/Upgrade.php:49 partials/admin/features.php:21
+msgid "Fuzzy search"
+msgstr "Неточный поиск"
+
+#: includes/Admin/SettingsAPI.php:720
+msgid "Contact"
+msgstr "Контакты"
+
+#: includes/Helpers.php:939
+msgctxt "in categories fe. in Books > Crime stories"
+msgid "in"
+msgstr "в"
+
+#: partials/admin/features.php:14
+msgid "If users can’t find the product they’re searching for, they can’t buy it. Help your customers to find the right products even <span>10× faster</span>."
+msgstr "Если пользователи не могут найти продукт, который ищут, они не могут его купить. Помогите своим клиентам найти нужные продукты в <span>10 раз быстрее</span>."
+
+#: includes/Integrations/Themes/Storefront/Storefront.php:44
+msgid "Storefront Theme"
+msgstr "Тема Storefront"
+
+#: partials/admin/indexer-header-demo.php:15
+msgid "Build index"
+msgstr "Построить индекс"
+
+#: includes/Settings.php:190
+msgid "To set 100% width leave blank"
+msgstr "Чтобы установить ширину 100%, оставьте пустым"
+
+#: includes/Settings.php:187
+msgid "Max form width"
+msgstr "Максимальная ширина формы"
+
+#: includes/Settings.php:252
+msgid "Colors"
+msgstr "Цвета"
+
+#: includes/Helpers.php:481 includes/Helpers.php:484
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/Admin/Troubleshooting.php:50 includes/Admin/Troubleshooting.php:69
+msgid "Troubleshooting"
+msgstr "Поиск проблемы"
+
+#: includes/Admin/Promo/FeedbackNotice.php:88
+msgid "No thanks"
+msgstr "Нет, спасибо"
+
+#: includes/Admin/Promo/FeedbackNotice.php:84
+msgid "Review %s"
+msgstr "Отзывов %s"
+
+#: includes/Admin/Promo/FeedbackNotice.php:73
+msgid "Hey %s, it's Damian Góra from %s. You have used this free plugin for some time now, and I hope you like it!"
+msgstr "Привет, %s! Это Damian Góra из %s. Вы пользуетесь этим плагином уже давно, надеюсь он вам понравился!"
+
+#: includes/Helpers.php:941 includes/Settings.php:346
+msgid "No results"
+msgstr "Ничего не найдено"
+
+#: includes/Settings.php:375
+msgid "Show SKU"
+msgstr "Показывать артикул"
+
+#: includes/Settings.php:178
+msgid "Minimum characters"
+msgstr "Минимум символов"
+
+#: includes/Engines/WordPressNative/Search.php:951
+msgid "Category"
+msgstr "Категория"
+
+#: includes/Engines/WordPressNative/Search.php:953
+msgid "Tag"
+msgstr "Метка"
+
+#: partials/admin/how-to-use.php:18
+msgid "Widgets Screen"
+msgstr "Виджеты"
+
+#: includes/Settings.php:473
+msgid "Highlight color"
+msgstr "Цвет выделенного текста"
+
+#: includes/Settings.php:466
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: includes/Settings.php:293
+msgid "Search submit text"
+msgstr "Текст кнопки \"Поиск\""
+
+#: includes/Settings.php:272
+msgid "Search input text"
+msgstr "Текст в поле \"Поиск\""
+
+#: includes/Settings.php:368
+msgid "Show product description"
+msgstr "Показать описание товара"
+
+#: includes/Admin/SettingsAPI.php:521
+msgid "Choose File"
+msgstr "Выбрать файл"
+
+#: includes/Settings.php:172 includes/Settings.php:322
+msgid "Basic"
+msgstr "Основное "
+
+#: widget.php:32
+msgid "Title"
+msgstr "Название"
+
+#: partials/admin/search-preview.php:34 partials/search-form.php:31
+msgid "Products search"
+msgstr "Поиск товаров"
+
+#: includes/Helpers.php:944 includes/Settings.php:213
+msgid "Search for products..."
+msgstr "Поиск товаров..."
+
+#: includes/Settings.php:196
+msgid "Show submit button"
+msgstr "Показывать кнопку"
+
+#: includes/Settings.php:204
+msgid "To display the magnifier icon leave this field empty."
+msgstr "Чтобы отображать лупу оставьте это поле пустым."
+
+#: includes/Settings.php:207 partials/search-form.php:47
+#: partials/themes/ekommart.php:21 partials/themes/storefront.php:60
+#: partials/themes/storefront.php:62
+msgid "Search"
+msgstr "Поиск"
+
+#: includes/Settings.php:211
+msgid "Search input placeholder"
+msgstr "Подсказка в поле поиска"
+
+#: includes/Settings.php:439
+msgid "The Details panel is an additional container for extended information. The details are changed dynamically when a user mouse over one of the suggestions."
+msgstr "Показывать блок с дополнительной информацией при наведении на результаты поиска."
+
+#: includes/Settings.php:356
+msgid "Show product image"
+msgstr "Показывать фото товара"
+
+#: includes/Settings.php:362
+msgid "Show price"
+msgstr "Показывать цену"
+
+#: includes/Settings.php:265
+msgid "Search input background"
+msgstr "Фон поля ввода"
+
+#: includes/Settings.php:279
+msgid "Search input border"
+msgstr "Цвет рамки поля ввода"
+
+#: includes/Settings.php:286
+msgid "Search submit background"
+msgstr "Фон кнопки поиска"
+
+#: includes/Settings.php:452
+msgid "Suggestion background"
+msgstr "Фон результатов"
+
+#: includes/Settings.php:459
+msgid "Suggestion selected"
+msgstr "Выбранный результат"
+
+#: includes/Settings.php:480
+msgid "Border color"
+msgstr "Цвет рамки"
+
+#: includes/Settings.php:300
+msgid "Preloader"
+msgstr "Анимация загрузки"
+
+#: includes/Settings.php:306
+msgid "Show preloader"
+msgstr "Показывать загрузку"
+
+#: includes/Settings.php:313
+msgid "Upload preloader image"
+msgstr "Изображение загрузчика"
+
+#: widget.php:25
+msgid "AJAX (live) search form for WooCommerce"
+msgstr "Ajax поиск для WooCommerce"

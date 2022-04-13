@@ -1,0 +1,27 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1" display-as-translated="1">af_product_videos</custom-type>
+  </custom-types>
+  <custom-fields>
+    <custom-field action="ignore">afpv_product_video_thumb</custom-field>
+    <custom-field action="ignore">afpv_product_video_type</custom-field>
+    <custom-field action="ignore">afpv_yt_product_video_id</custom-field>
+    <custom-field action="ignore">afpv_fb_product_video_id</custom-field>
+    <custom-field action="ignore">afpv_dm_product_video_id</custom-field>
+    <custom-field action="ignore">afpv_vm_product_video_id</custom-field>
+    <custom-field action="ignore">afpv_mc_product_video_id</custom-field>
+    <custom-field action="ignore">afpv_cus_product_video_id</custom-field>
+    <custom-field action="ignore">afpv_applied_products</custom-field>
+    <custom-field action="ignore">afpv_enable_featured_video</custom-field>
+    <custom-field action="ignore">afpv_video_thumb</custom-field>
+    <custom-field action="ignore">afpv_featured_video_type</custom-field>
+    <custom-field action="ignore">afpv_yt_featured_video_id</custom-field>
+    <custom-field action="ignore">afpv_fb_featured_video_id</custom-field>
+    <custom-field action="ignore">afpv_dm_featured_video_id</custom-field>
+    <custom-field action="ignore">afpv_vm_featured_video_id</custom-field>
+    <custom-field action="ignore">afpv_mc_featured_video_id</custom-field>
+    <custom-field action="ignore">afpv_cus_featured_video_id</custom-field>
+    <custom-field action="ignore">afpv_enable_featured_video_shop_page</custom-field>
+    <custom-field action="ignore">ka_up_set_priority_field</custom-field>
+  </custom-fields>
+</wpml-config>

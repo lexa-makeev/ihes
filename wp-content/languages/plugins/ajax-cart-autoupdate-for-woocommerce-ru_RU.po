@@ -1,0 +1,72 @@
+# Translation of Plugins - Ajax Cart AutoUpdate for WooCommerce - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Ajax Cart AutoUpdate for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-09 06:44:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Ajax Cart AutoUpdate for WooCommerce - Stable (latest release)\n"
+
+#: ajax-cart-autoupdate-for-woocommerce.php:66
+msgid "Turn off notices on cart page, including \"Cart updated.\" and \"&lt;Product&gt; removed. Undo?\". Empty cart message will still be displayed."
+msgstr "Отключить уведомления на странице корзины, в том числе \"Корзина обновлена.\" и  \"&lt;Товар&gt; удален. Отменить?\". Сообщение о пустой корзине по-прежнему будет отображаться."
+
+#: ajax-cart-autoupdate-for-woocommerce.php:62
+msgid "Time in miliseconds between the last quantity change and sending a request to update quantity on server (a spinning wheel is displayed when this happens). Allows changing the quantity multiple times with only one server request done in the end. Low values will result in the spinning wheel showing more than once when the changes are slow. High values will make the customers wait and wonder why the cart doesn't recalculate. How long the spinning wheel is displayed, is based entirely on the server response time."
+msgstr "Время в миллисекундах между последним изменением количества и отправкой запроса на обновление количества на сервере (при этом отображается вращающееся колесо). Позволяет изменять количество несколько раз с помощью только одного запроса сервера, выполненного в конце. Низкие значения приведут к тому, что вращающееся колесо будет отображаться более одного раза, когда изменения будут медленными. Высокие значения заставят клиентов ждать и удивляться, почему корзина не пересчитывается. Как долго отображается колесо, полностью зависит от времени отклика сервера."
+
+#: ajax-cart-autoupdate-for-woocommerce.php:72
+msgid "You can modify the spinning wheels further with custom CSS for .woocommerce .blockUI.blockOverlay:before,.woocommerce .loader:before"
+msgstr "Вы можете изменить вращающееся колесо с помощью пользовательского CSS для .woocommerce .blockUI.blockOverlay:before,.woocommerce .loader:before"
+
+#: ajax-cart-autoupdate-for-woocommerce.php:71
+msgid "Spinning wheel color"
+msgstr "Цвет вращающегося колеса"
+
+#: ajax-cart-autoupdate-for-woocommerce.php:69
+msgid "Custom spinning wheels"
+msgstr "Свое вращающееся колесо"
+
+#: ajax-cart-autoupdate-for-woocommerce.php:113
+msgid "Settings"
+msgstr "Настройки"
+
+#: ajax-cart-autoupdate-for-woocommerce.php:158
+msgid "Rate this plugin"
+msgstr "Оценить плагин"
+
+#: ajax-cart-autoupdate-for-woocommerce.php:156
+msgid "Support & suggestions"
+msgstr "Поддержка и предложения"
+
+#. Author of the plugin
+msgid "taisho"
+msgstr "taisho"
+
+#. Description of the plugin
+msgid "Automatically updates cart page and mini cart when quantity is changed. Optionally turns off cart page notices."
+msgstr "Автоматически обновляет страницу корзины и мини-корзину при изменении количества. Опционально отключает уведомления на странице корзины."
+
+#. Plugin Name of the plugin
+msgid "Ajax Cart AutoUpdate for WooCommerce"
+msgstr "Ajax Cart AutoUpdate for WooCommerce"
+
+#: ajax-cart-autoupdate-for-woocommerce.php:64
+msgid "Change minimum product quantity on cart page from 0 to 1. If unchecked, 0 quantity is valid and such products are removed on cart update."
+msgstr "Измените минимальное количество товара в корзине с 0 на 1. Если флажок снят, то количество 0 является допустимым, и такие продукты удаляются при обновлении корзины."
+
+#: ajax-cart-autoupdate-for-woocommerce.php:65
+msgid "Cart page notices"
+msgstr "Уведомления на странице корзины"
+
+#: ajax-cart-autoupdate-for-woocommerce.php:63
+msgid "Cart minimum quantity"
+msgstr "Минимальное количество в корзине"
+
+#: ajax-cart-autoupdate-for-woocommerce.php:61
+msgid "Update delay"
+msgstr "Задержка обновления "

@@ -1,0 +1,1349 @@
+# Copyright (C) 2021 pwf-woo-filter
+# This file is distributed under the same license as the pwf-woo-filter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: pwf-woo-filter\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/class-pwf-filter-post-type.php:215
+msgctxt "post type general name"
+msgid "Filter"
+msgstr ""
+
+#: includes/class-pwf-filter-post-type.php:216
+msgctxt "post type singular name"
+msgid "Filter"
+msgstr ""
+
+#: includes/class-pwf-filter-post-type.php:217
+msgctxt "admin menu"
+msgid "Filters"
+msgstr ""
+
+#: includes/class-pwf-filter-post-type.php:218
+msgctxt "add new on admin bar"
+msgid "Filter"
+msgstr ""
+
+#: includes/class-pwf-filter-post-type.php:219
+msgctxt "Filter"
+msgid "Add new"
+msgstr ""
+
+#: includes/class-pwf-filter-post-type.php:220
+msgid "Add new Filter"
+msgstr ""
+
+#: includes/class-pwf-filter-post-type.php:221
+msgid "New Filter"
+msgstr ""
+
+#: includes/class-pwf-filter-post-type.php:222
+msgid "Edit Filter"
+msgstr ""
+
+#: includes/class-pwf-filter-post-type.php:223
+msgid "View Filter"
+msgstr ""
+
+#: includes/class-pwf-filter-post-type.php:224, includes/admin/class-pwf-analytic-page.php:103
+msgid "Filters"
+msgstr ""
+
+#: includes/class-pwf-filter-post-type.php:225
+msgid "Search Filters"
+msgstr ""
+
+#: includes/class-pwf-filter-post-type.php:226
+msgid "Parent Filters:"
+msgstr ""
+
+#: includes/class-pwf-filter-post-type.php:227
+msgid "No Filters found."
+msgstr ""
+
+#: includes/class-pwf-filter-post-type.php:228
+msgid "No Filters found in trash."
+msgstr ""
+
+#: includes/class-pwf-front-end-ajax.php:40
+msgid "Filer ID must be integer."
+msgstr ""
+
+#: includes/class-pwf-render-filter-fields.php:181
+msgid "Show more"
+msgstr ""
+
+#: includes/class-pwf-render-filter-fields.php:182
+msgid "Show less"
+msgstr ""
+
+#: includes/class-pwf-render-filter-fields.php:792
+msgid "Min price"
+msgstr ""
+
+#: includes/class-pwf-render-filter-fields.php:793
+msgid "Max price"
+msgstr ""
+
+#: includes/class-pwf-render-filter-fields.php:897
+msgid "Min value"
+msgstr ""
+
+#: includes/class-pwf-render-filter-fields.php:898
+msgid "Max value"
+msgstr ""
+
+#: includes/class-pwf-render-filter-fields.php:972, includes/admin/class-pwf-analytic-page.php:120
+msgid "From"
+msgstr ""
+
+#: includes/class-pwf-render-filter-fields.php:973
+msgid "To"
+msgstr ""
+
+#: includes/class-pwf-render-filter-fields.php:1025
+msgid "up"
+msgstr ""
+
+#: includes/class-pwf-render-filter-fields.php:1028
+msgid "and"
+msgstr ""
+
+#: includes/class-pwf-render-filter-fields.php:1073, includes/class-pwf-render-filter.php:1914
+msgid "Rated"
+msgstr ""
+
+#: includes/class-pwf-render-filter-fields.php:1074, includes/classes/class-pwf-api-prepare-filter-post.php:136
+msgid "and up"
+msgstr ""
+
+#: includes/class-pwf-render-filter-fields.php:1071
+msgid "Rated out of"
+msgstr ""
+
+#: includes/class-pwf-render-filter.php:104, includes/class-pwf-render-filter.php:1911, includes/admin/class-pwf-admin-setting.php:72, includes/admin/class-pwf-meta-data.php:35, includes/widgets/class-pwf-filter-widget.php:108
+msgid "Filter"
+msgstr ""
+
+#: includes/class-pwf-render-filter.php:856, includes/admin/class-pwf-meta-data.php:83
+msgid "Featured"
+msgstr ""
+
+#: includes/class-pwf-render-filter.php:876, includes/admin/class-pwf-meta-data.php:79
+msgid "On sale"
+msgstr ""
+
+#: includes/class-pwf-render-filter.php:1727
+msgid "Rate 5"
+msgstr ""
+
+#: includes/class-pwf-render-filter.php:1730
+msgid "Rate 4"
+msgstr ""
+
+#: includes/class-pwf-render-filter.php:1733
+msgid "Rate 3"
+msgstr ""
+
+#: includes/class-pwf-render-filter.php:1736
+msgid "Rate 2"
+msgstr ""
+
+#: includes/class-pwf-render-filter.php:1739
+msgid "Rate 1"
+msgstr ""
+
+#: includes/class-pwf-render-filter.php:1909, includes/admin/class-pwf-meta.php:783, includes/admin/class-pwf-meta.php:1099
+msgid "Apply"
+msgstr ""
+
+#: includes/class-pwf-render-filter.php:1910, includes/admin/class-pwf-meta-data.php:31, includes/admin/class-pwf-meta.php:782, includes/admin/class-pwf-meta.php:1098
+msgid "Reset"
+msgstr ""
+
+#: includes/class-pwf-render-filter.php:1912, includes/admin/class-pwf-analytic-page.php:608
+msgid "Price"
+msgstr ""
+
+#: includes/class-pwf-render-filter.php:1913, includes/admin/class-pwf-analytic-page.php:613, includes/admin/class-pwf-meta.php:1107
+msgid "Search"
+msgstr ""
+
+#: includes/class-pwf-render-filter.php:1915
+msgid "Load more"
+msgstr ""
+
+#: includes/class-pwf-render-filter.php:1916
+msgid "Clear all"
+msgstr ""
+
+#: includes/admin/class-pwf-admin-setting.php:30
+msgid "None"
+msgstr ""
+
+#: includes/admin/class-pwf-admin-setting.php:80
+msgid "Select a filter to integrate with shop archive page"
+msgstr ""
+
+#: includes/admin/class-pwf-admin-setting.php:85
+msgid "Filter ID"
+msgstr ""
+
+#: includes/admin/class-pwf-admin-setting.php:91
+msgid "Transient time"
+msgstr ""
+
+#: includes/admin/class-pwf-admin-setting.php:92
+msgid "Set transient time in seconds."
+msgstr ""
+
+#: includes/admin/class-pwf-admin-setting.php:103
+msgid "Theme Comitable"
+msgstr ""
+
+#: includes/admin/class-pwf-admin-setting.php:107, includes/admin/class-pwf-admin-setting.php:116, includes/admin/class-pwf-admin-setting.php:126
+msgid "Enable"
+msgstr ""
+
+#: includes/admin/class-pwf-admin-setting.php:108, includes/admin/class-pwf-admin-setting.php:117, includes/admin/class-pwf-admin-setting.php:127
+msgid "Disable"
+msgstr ""
+
+#: includes/admin/class-pwf-admin-setting.php:112
+msgid "Analytics"
+msgstr ""
+
+#: includes/admin/class-pwf-admin-setting.php:121
+msgid "User ID"
+msgstr ""
+
+#: includes/admin/class-pwf-admin-setting.php:122
+msgid "Save The ID for a login user."
+msgstr ""
+
+#: includes/admin/class-pwf-admin-setting.php:131
+msgid "Default loader"
+msgstr ""
+
+#: includes/admin/class-pwf-admin-setting.php:132
+msgid "Default HTML loader template uses by Ajax."
+msgstr ""
+
+#: includes/admin/class-pwf-admin-setting.php:137
+msgid "Button loader"
+msgstr ""
+
+#: includes/admin/class-pwf-admin-setting.php:138
+msgid "HTML loader template uses by load more button."
+msgstr ""
+
+#: includes/admin/class-pwf-admin-setting.php:143
+msgid "Infinite Loader"
+msgstr ""
+
+#: includes/admin/class-pwf-admin-setting.php:144
+msgid "HTML loader template uses by infinite scroll."
+msgstr ""
+
+#: includes/admin/class-pwf-admin-setting.php:151
+msgid "Envato Purchase Code"
+msgstr ""
+
+#: includes/admin/class-pwf-admin-setting.php:152
+msgid "Please insert your Envato Purchase Code."
+msgstr ""
+
+#: includes/admin/class-pwf-analytic-page.php:153, includes/admin/class-pwf-analytic-page.php:310
+msgid "Month to date"
+msgstr ""
+
+#: includes/admin/class-pwf-analytic-page.php:169
+msgid "Date Range"
+msgstr ""
+
+#: includes/admin/class-pwf-analytic-page.php:199
+msgid "Language"
+msgstr ""
+
+#: includes/admin/class-pwf-analytic-page.php:201, includes/admin/class-pwf-analytic-page.php:219, includes/admin/class-pwf-database-query.php:218, includes/admin/class-pwf-database-query.php:283, includes/admin/class-pwf-meta-data.php:147, includes/admin/class-pwf-meta-data.php:199
+msgid "All"
+msgstr ""
+
+#: includes/admin/class-pwf-analytic-page.php:217
+msgid "Filter posts"
+msgstr ""
+
+#: includes/admin/class-pwf-analytic-page.php:271
+msgid "No data for the selected filter"
+msgstr ""
+
+#: includes/admin/class-pwf-analytic-page.php:573, includes/admin/class-pwf-meta-data.php:63, includes/admin/class-pwf-meta.php:1073
+msgid "Stock status"
+msgstr ""
+
+#: includes/admin/class-pwf-analytic-page.php:582, includes/admin/class-pwf-meta-data.php:67, includes/admin/class-pwf-meta-fields.php:360
+msgid "Order by"
+msgstr ""
+
+#: includes/admin/class-pwf-analytic-page.php:587, includes/admin/class-pwf-analytic-page.php:599, includes/admin/class-pwf-analytic-page.php:648, includes/admin/class-pwf-meta.php:1109
+msgid "Rating"
+msgstr ""
+
+#: includes/admin/class-pwf-analytic-page.php:603
+msgid "Vendors"
+msgstr ""
+
+#: includes/admin/class-pwf-analytic-page.php:511
+msgid "Product tags"
+msgstr ""
+
+#: includes/admin/class-pwf-analytic-page.php:509
+msgid "Product Categories"
+msgstr ""
+
+#: includes/admin/class-pwf-analytic-page.php:647, includes/admin/class-pwf-meta-data.php:238
+msgid "Default sorting"
+msgstr ""
+
+#: includes/admin/class-pwf-analytic-page.php:649
+msgid "Popularity"
+msgstr ""
+
+#: includes/admin/class-pwf-analytic-page.php:650, includes/admin/class-pwf-meta.php:1068
+msgid "Date"
+msgstr ""
+
+#: includes/admin/class-pwf-analytic-page.php:651
+msgid "Price: low to high"
+msgstr ""
+
+#: includes/admin/class-pwf-analytic-page.php:652
+msgid "Price: high to low"
+msgstr ""
+
+#: includes/admin/class-pwf-analytic-page.php:729
+msgid "Min"
+msgstr ""
+
+#: includes/admin/class-pwf-analytic-page.php:730
+msgid "Max"
+msgstr ""
+
+#: includes/admin/class-pwf-analytic-page.php:806
+msgid "English"
+msgstr ""
+
+#: includes/admin/class-pwf-clear-transients.php:23
+msgid "WooCommerce filter transients"
+msgstr ""
+
+#: includes/admin/class-pwf-clear-transients.php:24
+msgid "Clear transients"
+msgstr ""
+
+#: includes/admin/class-pwf-clear-transients.php:25
+msgid "This tool will clear the plugin professional Woocommerce filter term counts transients cache."
+msgstr ""
+
+#: includes/admin/class-pwf-clear-transients.php:68
+msgid "Cached terms count cleared"
+msgstr ""
+
+#: includes/admin/class-pwf-database-query.php:293
+msgid "No selected"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:16
+msgid "AND"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:20
+msgid "OR"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:47, includes/admin/class-pwf-meta-data.php:95, includes/admin/class-pwf-meta-fields.php:179
+msgid "Attribute"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:51, includes/admin/class-pwf-meta-data.php:99
+msgid "Category"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:55, includes/admin/class-pwf-meta-data.php:103
+msgid "Tag"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:59, includes/admin/class-pwf-meta-data.php:107, includes/admin/class-pwf-meta-fields.php:189
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:71
+msgid "Author"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:75
+msgid "Meta"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:111
+msgid "Page"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:123, includes/admin/class-pwf-meta.php:1100
+msgid "Equal to"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:127
+msgid "Not Equal to"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:203
+msgid "Only Parent"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:207
+msgid "Only Selected"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:211
+msgid "Except Selected"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:222
+msgid "In stock"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:226
+msgid "Out of stock"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:242
+msgid "Sort by popularity"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:246
+msgid "Sort by average rating"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:250
+msgid "Sort by latest"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:254
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:258
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:269
+msgid "Name"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:273
+msgid "Order"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:277
+msgid "Count"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:288
+msgid "Show content"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:292
+msgid "Hide content"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:303
+msgid "Show all"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:307
+msgid "Hide"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:311
+msgid "Mark as disabled"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:323
+msgid "Disabled"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:327
+msgid "Scrollbar"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:331
+msgid "More button"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:342, includes/admin/class-pwf-meta.php:390
+msgid "Default"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:346
+msgid "Plugin style"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:357
+msgid "Parameters through a dash"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:361
+msgid "Two parameters"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:372
+msgid "="
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:376
+msgid "!="
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:380
+msgid "&gt;"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:384
+msgid "&lt;"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:388
+msgid "&gt;="
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:392
+msgid "&lt;="
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:396
+msgid "LIKE"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:400
+msgid "NOT LIKE"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:404
+msgid "IN"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:408
+msgid "NOT IN"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:412
+msgid "BETWEEN"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:416
+msgid "NOT BETWEEN"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:428
+msgid "CHAR"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:432
+msgid "NUMERIC"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:436
+msgid "TIME"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:440
+msgid "DATE"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:444
+msgid "DATETIME"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:448
+msgid "DECIMAL"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:452
+msgid "SIGNED"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:456
+msgid "UNSIGNED"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:467
+msgid "Custom"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:471
+msgid "Weight"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:475
+msgid "Height"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:479
+msgid "Length"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-data.php:483, includes/admin/class-pwf-meta-fields.php:406
+msgid "Width"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:25, includes/admin/class-pwf-meta.php:260
+msgid "Title"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:34
+msgid "Action"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:43, includes/admin/class-pwf-meta-fields.php:459, includes/admin/class-pwf-meta.php:275
+msgid "CSS class"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:52, includes/admin/class-pwf-meta-fields.php:63
+msgid "URL format"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:73
+msgid "URL key"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:74
+msgid "The \"URL key\" is the URL-friendly version of the title. It is usually all lowercase and contains only letters, numbers, and hyphens"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:83
+msgid "URL key for minimum price"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:84
+msgid "The “URL key for minimum price” is the URL-friendly version of “minimum price”. It is usually all lowercase and contains only letters, numbers, and hyphens"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:93
+msgid "URL key for max price"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:94
+msgid "The “URL key for maximum price” is the URL-friendly version of “maximum price”. It is usually all lowercase and contains only letters, numbers, and hyphens."
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:103
+msgid "URL key for date after"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:112
+msgid "URL key for date before"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:121
+msgid "URL key for minimum value"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:130
+msgid "URL key for maximum value"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:139, includes/admin/class-pwf-meta-fields.php:492
+msgid "Multi Select"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:147, includes/admin/class-pwf-meta-fields.php:500
+msgid "Query type"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:148, includes/admin/class-pwf-meta-fields.php:501
+msgid "Type of query that allows you to apply multiple filters. “And” satisfy both conditions. “Or” satisfy at least one of the conditions"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:158
+msgid "Source of options"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:159
+msgid "Select source of options, that will be using to filter products"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:168
+msgid "Category of options"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:169
+msgid "Choose one of the categories"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:180
+msgid "Choose one of the attributes created in “Products > Attributes”"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:190
+msgid "The “Taxonomy” is a grouping mechanism for posts. For example, \"product tags\" and \"product attributes\" are also taxonomies"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:199
+msgid "Taxonomy of options"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:200
+msgid "Choose one of the taxonomies"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:209
+msgid "Roles"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:217
+msgid "Display"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:226, includes/admin/class-pwf-meta.php:1082
+msgid "Color"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:233
+msgid "Include"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:240
+msgid "Exclude"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:247
+msgid "Labels"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:248
+msgid "Rename fields to display in frontend"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:255
+msgid "Displayed statuses"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:265
+msgid "Order By"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:275
+msgid "\"In stock\" text"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:283
+msgid "\"Out of stock\" text"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:291
+msgid "\"Show all\" text"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:300
+msgid "Placeholder"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:301
+msgid "Search for Products"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:309
+msgid "Source of meta"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:318
+msgid "Meta key"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:326
+msgid "Meta compare"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:335
+msgid "Meta type"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:344
+msgid "Meta items"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:351
+msgid "Product Varaitions"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:352
+msgid "Displaying only instock products that have this variation."
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:369
+msgid "Unit"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:370
+msgid "EX: cm, kg"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:377
+msgid "Enable interaction"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:378
+msgid "Allow this item to interact with other filter items"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:386
+msgid "Up text"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:387
+msgid "Add the \"up\" text for each rate."
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:395
+msgid "Display rules"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:416
+msgid "Width unit"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:434
+msgid "Display title"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:442
+msgid "Display toggle content"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:449
+msgid "Default toggle state"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:450, includes/admin/class-pwf-meta.php:402
+msgid "Default state (show)"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:467
+msgid "Drop Down Style"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:476
+msgid "Inline style"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:484
+msgid "Display hierarchical"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:511
+msgid "Display hierarchy collapsed"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:519
+msgid "Style"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:524
+msgid "Rounded"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:528
+msgid "Rectangle"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:537
+msgid "Action for empty options"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:538
+msgid "Actions with options when no available products"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:547
+msgid "Display product counts"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:548
+msgid "Show/hide product counts in options"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:556
+msgid "See more options by"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:565
+msgid "Height of visible content"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:573
+msgid "size"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:574
+msgid "Height and width of item"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:583, includes/admin/class-pwf-meta-fields.php:634
+msgid "Step"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:592, includes/admin/class-pwf-meta-fields.php:643
+msgid "Start"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:593, includes/admin/class-pwf-meta-fields.php:644
+msgid "Range slider start handle."
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:601, includes/admin/class-pwf-meta-fields.php:652
+msgid "End"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:602, includes/admin/class-pwf-meta-fields.php:653
+msgid "Range slider end handle."
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:610, includes/admin/class-pwf-meta-fields.php:661
+msgid "Display max and min inputs"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:618
+msgid "Display price label"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:626, includes/admin/class-pwf-meta-fields.php:677
+msgid "Display Tooltip"
+msgstr ""
+
+#: includes/admin/class-pwf-meta-fields.php:669
+msgid "Display label"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:129
+msgid "Please select option from source of options"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:163, includes/admin/class-pwf-meta.php:1131
+msgid "There is no option list"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:175, includes/admin/class-pwf-meta.php:200
+msgid "Please select an option from source of options"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:244
+msgid "Automatically"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:248
+msgid "When on click send button"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:261
+msgid "Shop Filter"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:267, includes/admin/class-pwf-meta.php:470
+msgid "Filtering starts"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:282
+msgid "Which components to use"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:283
+msgid "Content of components will be updated when filtering"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:288
+msgid "Pagination"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:293
+msgid "Sorting"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:298
+msgid "Results count"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:306
+msgid "Pagination type"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:312
+msgid "Numbers"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:316
+msgid "Load more button"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:320
+msgid "Infinite scrolling"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:327
+msgid "Pagination ajax"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:333
+msgid "Sorting ajax"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:342
+msgid "Products container selector"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:349
+msgid "Pagination selector"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:356
+msgid "Result count selector"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:363
+msgid "Sorting selector"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:370
+msgid "active Filters selector"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:376
+msgid "Scroller to"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:377
+msgid "Use to scroll top when Ajax finished, default is Products container selector."
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:385
+msgid "Display Filter"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:394, includes/admin/class-pwf-meta.php:1070
+msgid "Button"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:401
+msgid "Button toggle state"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:409
+msgid "Number of products"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:414
+msgid "Enable browser hash"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:420
+msgid "API remove columns layout"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:421
+msgid "Remove columns layout in API"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:427
+msgid "Is shortcode"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:433
+msgid "Shortcode Type"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:438
+msgid "default WooCommerce shortcode"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:442
+msgid "Plugin Elementor pro"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:446
+msgid "Plugin PowerPack pro for Elementor"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:453
+msgid "Shortcode"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:454
+msgid "Copy your shortcode you add in the post and paste it here"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:462, includes/admin/class-pwf-meta.php:750
+msgid "Responsive"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:463
+msgid "Convert the filter to responsive"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:477
+msgid "Append the filter to"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:478
+msgid "Append the filter sticky navigation, default to the HTML body tag"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:484
+msgid "Screen width"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:485
+msgid "Assign width in pixel to convert the filter to sticky navigation"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:702
+msgid "Items"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:708
+msgid "Save"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:709
+msgid "Add item"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:745
+msgid "Filter setting"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:747, includes/admin/class-pwf-meta.php:1090
+msgid "General"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:748
+msgid "Selectors"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:749
+msgid "Extra"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:810
+msgid "There is no data to save"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:842
+msgid "Filter post not saved"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1062
+msgid "Checkbox list"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1063
+msgid "Radio list"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1064
+msgid "Dropdown list"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1065
+msgid "Color list"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1066
+msgid "Box list"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1067
+msgid "Text list"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1069
+msgid "Price slider"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1071
+msgid "Preset"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1072
+msgid "Categories"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1074
+msgid "Layout"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1075
+msgid "Column"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1076
+msgid "Field"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1077
+msgid "This field is required"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1078
+msgid "This field must be unique"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1079
+msgid "Ajax can not get data from your site"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1080
+msgctxt "OR text for display rules"
+msgid "OR"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1081
+msgid "Hide this filter if"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1083
+msgid "Image"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1084
+msgid "Upload image"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1085
+msgid "Type"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1086
+msgid "Border"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1087
+msgid "Marker"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1088
+msgid "Light"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1089
+msgid "Dark"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1091
+msgid "Visual"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1092
+msgid "Edit"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1093
+msgid "Close"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1094
+msgid "Remove"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1095
+msgid "Label"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1096
+msgid "Value"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1097
+msgid "Error"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1101
+msgid "Back"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1102
+msgctxt "Add new meta"
+msgid "Add new"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1103
+msgid "Please fill the required field"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1104
+msgid "Select item"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1105
+msgid "Filter updated"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1106
+msgid "There are no options list to display"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1108
+msgid "Range slider"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1110
+msgid "Slug"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1113
+msgid "String or array, for the array separate values with commas, for more information read"
+msgstr ""
+
+#: includes/admin/class-pwf-meta.php:1115
+msgid "documentation"
+msgstr ""
+
+#: includes/classes/class-pwf-api.php:60
+msgid "Missing filter ID"
+msgstr ""
+
+#: includes/classes/class-pwf-api.php:64
+msgid "Filter post ID not exists"
+msgstr ""
+
+#: includes/widgets/class-pwf-filter-widget.php:19
+msgid "This widget displays a form with items that you created in the filter post. When interacting with options, products are filtering."
+msgstr ""
+
+#: includes/widgets/class-pwf-filter-widget.php:22
+msgid "Product Filters"
+msgstr ""
+
+#: includes/widgets/class-pwf-filter-widget.php:100
+msgid "title:"
+msgstr ""
+
+#: includes/widgets/class-pwf-filter-widget.php:101
+msgid "Filter products"
+msgstr ""
+
+#: includes/widgets/class-pwf-filter-widget.php:117
+msgid "Display widget title:"
+msgstr ""
+
+#: includes/widgets/class-pwf-filter-widget.php:145
+msgid "Please add new filter"
+msgstr ""

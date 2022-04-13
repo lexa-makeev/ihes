@@ -1,0 +1,703 @@
+# Translation of YITH WooCommerce Added to Cart Popup in Dutch
+# This file is distributed under the same license as the YITH WooCommerce Added to Cart Popup package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Added to Cart Popup\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/yith-woocommerce-"
+"added-to-cart-popup-premium\n"
+"POT-Creation-Date: 2021-03-04 13:18:48+00:00\n"
+"PO-Revision-Date: 2020-06-04 14:16:03+0000\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+
+#: includes/admin-tables/class.yith-wacp-exclusions-cat-table.php:71
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: includes/admin-tables/class.yith-wacp-exclusions-cat-table.php:151
+#: includes/admin-tables/class.yith-wacp-exclusions-prod-table.php:147
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: includes/admin-tables/class.yith-wacp-exclusions-cat-table.php:164
+#: includes/admin-tables/class.yith-wacp-exclusions-prod-table.php:160
+msgid "Image"
+msgstr "Afbeelding"
+
+#: includes/admin-tables/class.yith-wacp-exclusions-cat-table.php:165
+msgid "Name"
+msgstr "Naam"
+
+#: includes/admin-tables/class.yith-wacp-exclusions-cat-table.php:166
+msgid "Description"
+msgstr "Beschrijving"
+
+#: includes/admin-tables/class.yith-wacp-exclusions-cat-table.php:167
+msgid "Slug"
+msgstr "Slug"
+
+#: includes/admin-tables/class.yith-wacp-exclusions-cat-table.php:168
+msgid "Count"
+msgstr "Telling"
+
+#: includes/admin-tables/class.yith-wacp-exclusions-cat-table.php:169
+#: includes/admin-tables/class.yith-wacp-exclusions-prod-table.php:164
+msgid "Actions"
+msgstr "Acties"
+
+#: includes/admin-tables/class.yith-wacp-exclusions-prod-table.php:125
+msgid "In Stock"
+msgstr "Op voorraad"
+
+#: includes/admin-tables/class.yith-wacp-exclusions-prod-table.php:161
+msgid "Product"
+msgstr "Product"
+
+#: includes/admin-tables/class.yith-wacp-exclusions-prod-table.php:162
+msgid "Price"
+msgstr "Prijs"
+
+#: includes/admin-tables/class.yith-wacp-exclusions-prod-table.php:163
+msgid "Stock Status"
+msgstr "Voorraad status"
+
+#: includes/class.yith-wacp-admin-premium.php:128
+msgid "Style"
+msgstr "Stijl"
+
+#: includes/class.yith-wacp-admin-premium.php:129
+msgid "Mini Cart"
+msgstr "Mini winkelwagen"
+
+#: includes/class.yith-wacp-admin-premium.php:130
+msgid "Product Exclusion List"
+msgstr "Product uitzonderingen lijst"
+
+#: includes/class.yith-wacp-admin-premium.php:131
+msgid "Category Exclusion List"
+msgstr "Categorie uitzonderingen lijst"
+
+#: includes/class.yith-wacp-admin-premium.php:232
+msgid "Do you want to hard crop the image?"
+msgstr "Wil je hard crop gebruiken voor de afbeelding?"
+
+#: includes/class.yith-wacp-admin-premium.php:353
+#: templates/admin/exclusions-prod-table.php:46
+msgid "Search product..."
+msgstr "Product zoeken..."
+
+#: includes/class.yith-wacp-admin.php:130
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/class.yith-wacp-admin.php:134
+msgid "Premium Version"
+msgstr "Premium versie"
+
+#: includes/class.yith-wacp-frontend-premium.php:422
+msgid ""
+"There was a problem with your submission. Please check required fields below."
+msgstr ""
+"Er is een probleem opgetreden met uw inzending. Controleer de verplichte "
+"velden hieronder:"
+
+#: includes/class.yith-wacp-frontend.php:152
+msgid "was added to your cart"
+msgstr "was toegevoegd aan je winkelwagen"
+
+#: includes/class.yith-wacp-frontend.php:157
+msgid "Added to your cart"
+msgstr "Toegevoegd aan je winkelwagen"
+
+#: includes/class.yith-wacp-frontend.php:164
+msgid "View cart"
+msgstr "Bekijk winkelwagen"
+
+#: includes/class.yith-wacp-frontend.php:168
+msgid "Continue shopping"
+msgstr "Verder winkelen"
+
+#: includes/integrations/class.yith-wacp-ywcm-integration.php:65
+msgid "Show on \"Added to Cart\" popup"
+msgstr "Toon in \"Toegevoegd aan winkelwagen\" pop-up"
+
+#: includes/integrations/class.yith-wacp-ywcm-integration.php:66
+msgid "Show this message also on YITH WooCommerce Added to Cart Popup"
+msgstr "Toon dit bericht ook in YITH WooCommerce Added to Cart Pop-up"
+
+#: init.php:45
+msgid ""
+"YITH WooCommerce Added to Cart Popup Premium is enabled but not effective. "
+"It requires WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Added to Cart Popup Premium is ingeschakeld maar werkt "
+"niet. Het heeft WooCommerce nodig om te werken."
+
+#: plugin-options/general-options.php:17
+msgid "General Options"
+msgstr "Algemene opties"
+
+#: plugin-options/general-options.php:24
+msgid "Popup Size"
+msgstr "Pop-up formaat"
+
+#: plugin-options/general-options.php:25
+msgid "Set popup size."
+msgstr "Pop-up formaat instellen."
+
+#: plugin-options/general-options.php:35
+msgid "Popup Animation"
+msgstr "Pop-up animatie"
+
+#: plugin-options/general-options.php:36
+msgid "Select popup animation"
+msgstr "Selecteer pop-up animatie"
+
+#: plugin-options/general-options.php:41
+msgid "Fade In"
+msgstr "Vervagen"
+
+#: plugin-options/general-options.php:42
+msgid "Slide In (Right)"
+msgstr "Binnenschuiven (Rechts)"
+
+#: plugin-options/general-options.php:43
+msgid "Slide In (Left)"
+msgstr "Binnenschuiven (Links)"
+
+#: plugin-options/general-options.php:44
+msgid "Slide In (Bottom)"
+msgstr "Binnenschuiven (Onder)"
+
+#: plugin-options/general-options.php:45
+msgid "Slide In (Top)"
+msgstr "Binnenschuiven (Boven)"
+
+#: plugin-options/general-options.php:46
+msgid "3D Flip (Horizontal)"
+msgstr "3D Salto (Horizontaal)"
+
+#: plugin-options/general-options.php:47
+msgid "3D Flip (Vertical)"
+msgstr "3D Salto (Verticaal)"
+
+#: plugin-options/general-options.php:48
+msgid "Scale Up"
+msgstr "Uitbereiden"
+
+#: plugin-options/general-options.php:55
+#: plugin-options/mini-cart-options.php:24
+msgid "Enable Popup"
+msgstr "Pop-up inschakelen"
+
+#: plugin-options/general-options.php:56
+msgid "On Archive Page"
+msgstr "Op archief pagina"
+
+#: plugin-options/general-options.php:65
+msgid "On Single Product Page"
+msgstr "Op single product pagina"
+
+#: plugin-options/general-options.php:73
+msgid "Popup message"
+msgstr "Pop-up bericht"
+
+#: plugin-options/general-options.php:77
+msgid "Product successfully added to your cart!"
+msgstr "Product succesvol toegevoegd aan je winkelwagen!"
+
+#: plugin-options/general-options.php:82
+msgid "Select content"
+msgstr "Inhoud selecteren"
+
+#: plugin-options/general-options.php:83
+msgid "Choose whether to show the added product or the cart"
+msgstr "Bepaal of je het toegevoegde product of de winkelwagen wilt weergeven"
+
+#: plugin-options/general-options.php:88
+msgid "Added product"
+msgstr "Product toegevoegd"
+
+#: plugin-options/general-options.php:89
+msgid "Cart"
+msgstr "Winkelwagen"
+
+#: plugin-options/general-options.php:96
+msgid "Show product info"
+msgstr "Productinformatie tonen"
+
+#: plugin-options/general-options.php:97
+msgid "Choose to show the product info in the popup"
+msgstr "Kies productinformatie om te laten zien in de popup"
+
+#: plugin-options/general-options.php:105
+msgid "Show product thumbnail"
+msgstr "Product thumbnail tonen"
+
+#: plugin-options/general-options.php:106
+msgid "Choose to show the product thumbnail in the popup"
+msgstr "Bepaal of de product thumbnail wordt weergegeven in de popup"
+
+#: plugin-options/general-options.php:115
+msgid "Thumbnail Size"
+msgstr "Afmeting Thumbnail"
+
+#. translators: %s stand for a link to download a free WordPress plugin to
+#. regenerate image sizes.
+#: plugin-options/general-options.php:117
+msgid ""
+"Set image size (in px). After changing these settings, you may need to %s."
+msgstr ""
+"Stel afbeelding grootte in (in px). Nadat je deze instellingen hebt "
+"gewijzigd, kan het zijn dat je %s moet."
+
+#: plugin-options/general-options.php:117
+msgid "regenerate your thumbnails"
+msgstr "uw thumbnails regenereren"
+
+#: plugin-options/general-options.php:132
+msgid "Show product variations"
+msgstr "Toon product variaties"
+
+#: plugin-options/general-options.php:133
+msgid ""
+"Choose to show product variations details ( only available of variable "
+"product )."
+msgstr ""
+"Bepaal of je product variatie details wilt weergeven (uitsluitend "
+"beschikbaar voor variabele producten)."
+
+#: plugin-options/general-options.php:141
+msgid "Show cart total"
+msgstr "Toon winkelwagen totaal"
+
+#: plugin-options/general-options.php:142
+msgid "Choose to show cart total in the popup"
+msgstr "Bepaal of u het winkelwagen totaal wilt weergeven in de pop-up"
+
+#: plugin-options/general-options.php:150
+msgid "Show shipping fees"
+msgstr "Toon verzendkosten"
+
+#: plugin-options/general-options.php:151
+msgid "Choose to show shipping fees in the popup"
+msgstr "Bepaal of je verzendkosten wilt weergeven in de pop-up"
+
+#: plugin-options/general-options.php:159
+msgid "Show tax amount"
+msgstr "Toon belastingbedrag"
+
+#: plugin-options/general-options.php:160
+msgid "Choose to show tax cart amount in the popup"
+msgstr "Bepaal of je het belastingbedrag wilt weergeven in de pop-up"
+
+#: plugin-options/general-options.php:168
+msgid "Show \"View Cart\" Button"
+msgstr "Toon \"Bekijk winkelwagen\" knop"
+
+#: plugin-options/general-options.php:169
+msgid "Choose to show \"View Cart\" button in the popup"
+msgstr ""
+"Bepaal of je de \"Bekijk winkelwagen\" knop wilt weergeven in de pop-up"
+
+#: plugin-options/general-options.php:177
+msgid "\"View Cart\" Button Text"
+msgstr "\"Bekijk winkelwagen\" knop tekst"
+
+#: plugin-options/general-options.php:178
+msgid "Text for \"View Cart\" button"
+msgstr "Tekst voor \"Bekijk Winkelwagen\" knop"
+
+#: plugin-options/general-options.php:181
+msgid "View Cart"
+msgstr "Bekijk winkelwagen"
+
+#: plugin-options/general-options.php:191
+msgid "Show \"Continue Shopping\" Button"
+msgstr "Toon \"Verder winkelen\" knop"
+
+#: plugin-options/general-options.php:192
+msgid "Choose to show \"Continue Shopping\" button in the popup"
+msgstr "Bepaal of je de \"Verder winkelen\" knop wilt weergeven in de pop-up"
+
+#: plugin-options/general-options.php:200
+msgid "\"Continue Shopping\" Button Text"
+msgstr "\"Verder winkelen\" knop tekst"
+
+#: plugin-options/general-options.php:201
+msgid "Text for \"Continue Shopping\" button"
+msgstr "Tekst voor \"Verder winkelen\" knop"
+
+#: plugin-options/general-options.php:204
+msgid "Continue Shopping"
+msgstr "Verder winkelen"
+
+#: plugin-options/general-options.php:214
+msgid "Show \"Go to Checkout\" Button"
+msgstr "Toon \"Ga naar checkout\" knop"
+
+#: plugin-options/general-options.php:215
+msgid "Choose to show \"Go to Checkout\" button in the popup"
+msgstr "Bepaal of je de \"Ga naar checkout\" knop wilt weergeven in de pop-up"
+
+#: plugin-options/general-options.php:223
+msgid "\"Go to Checkout\" Button Text"
+msgstr "\"Ga naar checkout\" knop tekst"
+
+#: plugin-options/general-options.php:224
+msgid "Text for \"Go to Checkout\" button"
+msgstr "Tekst voor \"Ga naar checkout\" knop"
+
+#: plugin-options/general-options.php:227
+msgid "Checkout"
+msgstr "Checkout"
+
+#: plugin-options/general-options.php:237
+msgid "Enable on mobile"
+msgstr "Inschakelen op mobiel"
+
+#: plugin-options/general-options.php:238
+msgid "Enable the plugin features on mobile devices"
+msgstr "Plugin opties inschakelen voor mobiele apparatuur"
+
+#: plugin-options/general-options.php:246
+msgid "Enable for \"Request A Quote\" button"
+msgstr "Inschakelen om \"Request a Quote\" knop te tonen"
+
+#: plugin-options/general-options.php:247
+msgid "Enable the plugin features also for YITH WooCommerce Request A Quote"
+msgstr ""
+"Schakel de plugin features ook in voor YITH WooCommerce Request A Quote"
+
+#: plugin-options/general-options.php:255
+msgid "Enable for \"Frequently Bought Together\" button"
+msgstr "Inschakelen om \"Vaak samen gekocht\" knop te tonen"
+
+#: plugin-options/general-options.php:256
+msgid ""
+"Enable the plugin features also for YITH WooCommerce Frequently Bought "
+"Together Premium"
+msgstr ""
+"Schakel de plugin functies ook in voor YITH WooCommerce Frequently Bought "
+"Together Premium"
+
+#: plugin-options/general-options.php:269
+#: plugin-options/general-options.php:289
+msgid "Suggested Products"
+msgstr "Voorgestelde producten"
+
+#: plugin-options/general-options.php:276
+msgid "Show suggested products"
+msgstr "Toon voorgestelde producten"
+
+#: plugin-options/general-options.php:277
+msgid "Choose to show suggested products in popup."
+msgstr "Bepaal hoe je voorgestelde producten wilt tonen in pop-up."
+
+#: plugin-options/general-options.php:285
+msgid "\"Suggested Products\" title"
+msgstr "Titel \"Voorgestelde producten\""
+
+#: plugin-options/general-options.php:286
+msgid "The title for \"Suggested Products\" section."
+msgstr "Titel van \"Voorgestelde producten\" sectie."
+
+#: plugin-options/general-options.php:299
+msgid "Number of suggested products"
+msgstr "Aantal voorgestelde producten"
+
+#: plugin-options/general-options.php:300
+msgid "Choose how many suggested products to show"
+msgstr "Bepaal hoeveel voorgestelde producten u wilt weergeven"
+
+#: plugin-options/general-options.php:314
+msgid "Columns of suggested products"
+msgstr "Kolommen met voorgestelde producten"
+
+#: plugin-options/general-options.php:315
+msgid "Choose how many columns to show in suggested products"
+msgstr "Bepaal hoeveel kolommen je wilt weergeven in voorgestelde producten"
+
+#: plugin-options/general-options.php:334
+msgid "Suggested products type"
+msgstr "Voorgestelde producten type"
+
+#: plugin-options/general-options.php:335
+msgid "Select suggested products type."
+msgstr "Selecteer voorgestelde producten type."
+
+#: plugin-options/general-options.php:340
+msgid "Related Products"
+msgstr "Gerelateerde producten"
+
+#: plugin-options/general-options.php:341
+msgid "Cross-sell Products"
+msgstr "Cross-sell producten"
+
+#: plugin-options/general-options.php:342
+msgid "Up-sell Products"
+msgstr "Up-sell Producten"
+
+#: plugin-options/general-options.php:354
+msgid "Select products"
+msgstr "Geselecteerde producten"
+
+#: plugin-options/general-options.php:355
+msgid ""
+"Select suggested products. If filled, these settings will override what set "
+"in the above option."
+msgstr ""
+"Selecteer voorgestelde producten. Indien gevuld, zullen deze instellingen "
+"bovenstaande opties overschrijven."
+
+#: plugin-options/general-options.php:367
+msgid "Show \"Add to cart\" button"
+msgstr "Toon \"toevoegen aan winkelwagen\" knop"
+
+#: plugin-options/general-options.php:368
+msgid "Show the \"add to cart\" button for suggested products."
+msgstr ""
+"Toon de \"toevoegen aan winkelwagen\" knop voor voorgestelde producten."
+
+#: plugin-options/mini-cart-options.php:17
+msgid "Mini Cart Options"
+msgstr "Mini winkelwagen opties"
+
+#: plugin-options/mini-cart-options.php:42
+msgid "Mini Cart Icon"
+msgstr "Mini winkelwagen icoon"
+
+#: plugin-options/mini-cart-options.php:43
+msgid "Upload a mini cart icon (suggested size 32x32 px)"
+msgstr "Een mini winkelwagen icoon uploaden (voorgesteld formaat 32x32 px)"
+
+#: plugin-options/mini-cart-options.php:51
+msgid "Show counter"
+msgstr "Toon teller"
+
+#: plugin-options/mini-cart-options.php:52
+msgid "Choose to show a counter with the number of items in cart."
+msgstr "Kies om een teller te tonen met het aantal producten in de winkewlagen"
+
+#: plugin-options/mini-cart-options.php:60
+msgid "Hide if empty"
+msgstr "Verbergen als deze leeg is"
+
+#: plugin-options/mini-cart-options.php:61
+msgid "Choose to hide the mini cart if it is empty."
+msgstr "Bepaal of je de mini winkelwagen wilt verbergen als deze leeg is."
+
+#: plugin-options/mini-cart-options.php:69
+msgid "Mini Cart position"
+msgstr "Mini winkelwagen positie"
+
+#: plugin-options/mini-cart-options.php:70
+msgid "Drag the mini cart at desired position."
+msgstr "Sleep de mini winkelwagen naar de gewenste positie."
+
+#: plugin-options/style-options.php:17
+msgid "Style Options"
+msgstr "Stijl opties"
+
+#: plugin-options/style-options.php:24
+msgid "Overlay color"
+msgstr "Overlay Kleur"
+
+#: plugin-options/style-options.php:25
+msgid "Choose popup overlay color"
+msgstr "Kies pop-up overlay kleur"
+
+#: plugin-options/style-options.php:33
+msgid "Overlay opacity"
+msgstr "Overlay matheid"
+
+#: plugin-options/style-options.php:34
+msgid "Choose popup overlay opacity (from 0 to 1)"
+msgstr "Kies pop-up overlay matheid (van 0 naar 1)"
+
+#: plugin-options/style-options.php:47
+msgid "Popup background"
+msgstr "Pop-up achtergrond"
+
+#: plugin-options/style-options.php:48
+msgid "Choose popup background color"
+msgstr "Kies achtergrondkleur pop-up"
+
+#: plugin-options/style-options.php:56
+msgid "Closing link color"
+msgstr "Link sluiten kleur"
+
+#: plugin-options/style-options.php:76
+msgid "Message Text Color"
+msgstr "Tekstkleur bericht"
+
+#: plugin-options/style-options.php:77
+msgid "Choose popup message text color"
+msgstr "Bepaal tekstkleur popup bericht"
+
+#: plugin-options/style-options.php:85
+msgid "Message Background Color"
+msgstr "Achtergrondkleur bericht"
+
+#: plugin-options/style-options.php:86
+msgid "Choose popup message background color"
+msgstr "Kies achtergrondkleur pop-up bericht"
+
+#: plugin-options/style-options.php:94
+msgid "Message Icon"
+msgstr "Bericht icoon"
+
+#: plugin-options/style-options.php:95
+msgid "Upload a popup message icon (suggested size 25x25 px)"
+msgstr "Een pop-up bericht icoon uploaden (voorgesteld formaat 25x25 px)"
+
+#: plugin-options/style-options.php:103
+msgid "Product Name"
+msgstr "Productnaam"
+
+#: plugin-options/style-options.php:123
+msgid "Product Price"
+msgstr "Productprijs"
+
+#: plugin-options/style-options.php:124
+msgid "Choose color for product price"
+msgstr "Kies kleur voor productprijs"
+
+#: plugin-options/style-options.php:132
+msgid "Total and Shipping label"
+msgstr "Totaal en verzendlabel"
+
+#: plugin-options/style-options.php:133
+msgid "Choose color for total and shipping label"
+msgstr "Kies kleur voor totaal en verzendlabel"
+
+#: plugin-options/style-options.php:141
+msgid "Total and Shipping amount"
+msgstr "Totaal en verzendbedrag"
+
+#: plugin-options/style-options.php:142
+msgid "Choose color for total and shipping amount"
+msgstr "Kies kleur voor totaal en verzendbedrag"
+
+#: plugin-options/style-options.php:150
+msgid "Button Background"
+msgstr "Knop achtergrond"
+
+#: plugin-options/style-options.php:170
+msgid "Button Text"
+msgstr "Knop tekst"
+
+#: plugin-options/style-options.php:190
+msgid "Related Title"
+msgstr "Gerelateerde titel"
+
+#: plugin-options/style-options.php:191
+msgid "Select the color of the related product section title"
+msgstr "Kleur selecteren van de sectietitel voor het gerelateerde product"
+
+#: templates/admin/exclusions-cat-table.php:22
+msgid "Category exclusion list"
+msgstr "Categorie uitzonderingen lijst"
+
+#: templates/admin/exclusions-cat-table.php:37
+msgid "Select categories to exclude"
+msgstr "Selecteer categorieën om uit te sluiten"
+
+#: templates/admin/exclusions-cat-table.php:46
+msgid "Search category..."
+msgstr "Categorie zoeken..."
+
+#: templates/admin/exclusions-cat-table.php:53
+#: templates/admin/exclusions-prod-table.php:52
+msgid "Exclude"
+msgstr "Uitsluiten"
+
+#: templates/admin/exclusions-prod-table.php:22
+msgid "Product exclusion list"
+msgstr "Product uitzonderingen lijst"
+
+#: templates/admin/exclusions-prod-table.php:37
+msgid "Select products to exclude"
+msgstr "Selecteer producten om uit te sluiten"
+
+#: templates/yith-wacp-popup-cart-info.php:17
+msgid "Shipping Cost"
+msgstr "Verzendkosten"
+
+#: templates/yith-wacp-popup-cart-info.php:26
+msgid "Tax Amount"
+msgstr "Belastigbedrag"
+
+#: templates/yith-wacp-popup-cart-info.php:36
+msgid "Discount"
+msgstr "Korting"
+
+#: templates/yith-wacp-popup-cart-info.php:43
+msgid "Cart Total"
+msgstr "Winkelwagen totaal"
+
+#: templates/yith-wacp-popup-cart.php:14
+msgid "Your Cart"
+msgstr "Je winkelwagen"
+
+#: templates/yith-wacp-popup-cart.php:34
+msgid "Remove item"
+msgstr "Item verwijderen"
+
+#: templates/yith-wacp-popup-raq.php:14
+msgid "Your Quote"
+msgstr "Je prijsopgave"
+
+#: templates/yith-wacp-popup.php:23
+msgid "Close"
+msgstr "Sluiten"
+
+#. Description of the plugin/theme
+msgid ""
+"The <code><strong>YITH WooCommerce Added to Cart Popup</strong></code> "
+"plugin allow you to display a popup cart with suggested products and cart "
+"actions after an \"add to cart\" action. <a href=\"https://yithemes.com/\" "
+"target=\"_blank\">Get more plugins for your e-commerce shop on <strong>YITH</"
+"strong></a>."
+msgstr ""
+"De <code><strong>YITH WooCommerce Added to Cart Popup</strong></code>  "
+"plugin laat je een popup winkelwagen maken met voorgestelde producten en "
+"winkelwagen acties weer te geven na een \"toevoegen aan winkelwagen\" actie. "
+"<a href=\"https://yithemes.com/\" target=\"_blank\">Verkrijg meer plugins "
+"voor je e-commerce winkel op <strong>YITH</strong></a>."
+
+#: includes/class.yith-wacp-admin.php:140
+msgctxt "Plugin name"
+msgid "YITH WooCommerce Added to Cart Popup"
+msgstr "YITH WooCommerce Added to Cart Popup"
+
+#: includes/class.yith-wacp-admin.php:141
+msgctxt "Plugin name"
+msgid "Added to Cart Popup"
+msgstr "Toegevoegd aan winkelwagen pop-up"
+
+#: plugin-options/mini-cart-options.php:25
+msgctxt "Option to enable mini cart on desktop"
+msgid "On Desktop"
+msgstr "Op bureaublad"
+
+#: plugin-options/mini-cart-options.php:34
+msgctxt "Option to enable mini cart on mobile devices"
+msgid "On Mobile"
+msgstr "Op mobiel"
+
+#: plugin-options/style-options.php:63 plugin-options/style-options.php:110
+#: plugin-options/style-options.php:157 plugin-options/style-options.php:177
+msgctxt "[admin]Plugin option label"
+msgid "Default color"
+msgstr "Standaardkleur"
+
+#: plugin-options/style-options.php:68 plugin-options/style-options.php:115
+#: plugin-options/style-options.php:162 plugin-options/style-options.php:182
+msgctxt "[admin]Plugin option label"
+msgid "Hover color"
+msgstr "Hoveren kleur"
